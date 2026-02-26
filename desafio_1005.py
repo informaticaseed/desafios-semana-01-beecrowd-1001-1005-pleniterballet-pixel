@@ -18,3 +18,7 @@ de imprimir o fim de linha após o resultado, caso contrário, você receberá
 # Link do problema: https://judge.beecrowd.com/pt/problems/view/1005
 
 # Escreva sua solução abaixo
+a = float(input('Digite a 1ª nota')) * 3.5
+b = float(input('Digite a 2ª nota')) * 7.5
+MEDIA = (a+b)/2
+print(f'MEDIA = {MEDIA}')float(input('Digite a 1ª nota')) * 3.5
